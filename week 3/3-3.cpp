@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <string>
 #include <ios>
 #include <iomanip>
@@ -17,7 +17,7 @@ int main() {
 	}
 
 	if (words.size() == 0) {
-		cout << "ÀÔ·ÂµÈ ´Ü¾î°¡ ¾ø½À´Ï´Ù." << endl;
+		cout << "ìž…ë ¥ëœ ë‹¨ì–´ê°€ ì—†ìŠµë‹ˆë‹¤." << endl;
 		return 0;
 	}
 
