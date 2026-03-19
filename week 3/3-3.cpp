@@ -26,7 +26,7 @@ int main() {
 	int count = 1;
 	string current = words[0];
 
-	for (size_t i = 1; i < words.size(); i++) {
+	for (int i = 1; i < words.size(); i++) {
 		if (words[i] == current) {
 			count++;
 		}
